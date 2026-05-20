@@ -17,10 +17,7 @@ Full-stack AI-powered code review platform with polyglot execution sandbox and r
 
 ## 📸 Screenshots & Demo
 
-> [!NOTE]
-> *Add your GIF or screenshot of the dashboard, Monaco editor coding arena, and metrics charts here.*
-
-![Screenshot Placeholder](https://via.placeholder.com/1200x600/0b0f19/ffffff?text=AI+Code+Review+Assistant+-+Monaco+Editor+and+Live+Metrics)
+![AI Code Review Assistant Dashboard](screenshot.png)
 
 ---
 
