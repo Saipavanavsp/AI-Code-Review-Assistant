@@ -189,4 +189,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 **Sai Pavan**
 * GitHub: [@Saipavanavsp](https://github.com/Saipavanavsp)
-* LinkedIn: [Pavan](https://linkedin.com)
+* LinkedIn: [Venkata Sai Pavan Atmakuru](https://www.linkedin.com/in/venkata-sai-pavan-atmakuru-07a486364/)
