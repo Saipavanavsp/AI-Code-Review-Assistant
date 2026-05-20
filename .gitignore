@@ -1,0 +1,31 @@
+# Python virtual environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node dependencies and build files
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Configuration and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE and temporary files
+.vscode/
+.idea/
+*.log
+*.tmp
+temp_*/
+tmp/
